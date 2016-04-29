@@ -7,7 +7,7 @@
   - Cloud Computing
   created: "2016-04-29"
   modified: "2016-04-29"
-  url: http://century.link.stack.networkapis.json
+  url: http://century.link.stack.network/
   specificationVersion: "0.14"
   apis:
   - name: Century Link Labs API
