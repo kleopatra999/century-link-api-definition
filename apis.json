@@ -1,7 +1,7 @@
 {
-	"name": "Century Links Cloud API",
-	"description": "",
-	"image": "",
+	"name": "Century Link Cloud API",
+	"description": "This is a working project for defining the Centur Link Cloud API as OpenAPI Spec.",
+	"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/CenturyLinkLabsLogo.png",
 	"x-open-ranking": "0",
 	"tags": ["Century Link Stack"],
 	"created": "2016-04-29",
@@ -52,10 +52,7 @@
 		"type": "x-portal",
 		"url": "http://www.centurylinklabs.com/"
 	}],
-	"include": [{
-		"name": "Parent",
-		"url": "http://century.link.stack.networkapis.json"
-	}],
+	"include": [],
 	"maintainers": [{
 		"FN": "Kin Lane",
 		"x-twitter": "apievangelist",
