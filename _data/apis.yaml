@@ -20,6 +20,20 @@ apis:
   - type: x-openapi-spec
     url: api-commons/century-link-labs-api-openapi-spec.json
 x-common:
+- type: x-github
+  url: https://github.com/CenturyLinkLabs
+- type: x-dedicated-plans--pricing-page
+  url: https://www.ctl.io/pricing/#/va1
+- type: x-security-contact
+  url: https://www.ctl.io/cloud-security
+- type: x-status-dashboard
+  url: http://status.ctl.io/
+- type: x-support-overview-page
+  url: https://www.ctl.io/support/
+- type: x-terms-of-service-page
+  url: https://www.ctl.io/legal
+- type: x-twitter
+  url: https://twitter.com/centurylinklabs
 - type: x-portal
   url: http://www.centurylinklabs.com/
 include:
